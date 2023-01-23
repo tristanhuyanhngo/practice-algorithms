@@ -1,1 +1,1 @@
-# practice-algorithms
+# practice-algorithm
